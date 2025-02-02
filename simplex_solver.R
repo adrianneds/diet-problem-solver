@@ -1,6 +1,4 @@
-#####     CMSC 150 FINAL PROJECT         #####
 #####     Author: Adrianne D. Solis      #####
-#####     Section: B1L                   #####
 #####     Diet Problem Solver: Simplex   #####
 
 # [1] Import Data
