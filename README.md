@@ -15,3 +15,7 @@ Select your preferred food items in the sidebar on the left. You may click the '
 Once done choosing, click the 'Find my optimal diet!' button to obtain your optimal cost and daily diet. Results will be shown on the page.  
 For a full-screen view, expand the results card (lower right button)  
 
+## Screenshots
+<img src = 'www\s1.png'>
+<img src = 'www\s2.png'>
+
