@@ -1,8 +1,10 @@
 ## Diet Problem Solver
-A R-based diet planning application with a graphical user interface.
+A R-based diet planning application with a graphical user interface.  
+
 It generates a diet that minimizes cost while satisfying daily nutritional constraints given the preferred food items of the user.
-The application outputs the cost of the diet, number of servings per food item, and Simplex method calculations.
-Food data (prices, servings) are read from an excel file.
+The application outputs the cost of the diet, number of servings per food item, and Simplex method calculations.  
+
+Food data (prices, servings) are read from an excel dataset.
 
 ## How to Run
 ***1. Clone this repository.***  
